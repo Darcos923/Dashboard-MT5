@@ -13,8 +13,7 @@ Jinja2==3.1.6
 jsonschema==4.24.0
 jsonschema-specifications==2025.4.1
 MarkupSafe==3.0.2
-pymt5linux
-mt5linux==0.1.6
+mt5linux
 narwhals==1.41.0
 numpy==2.2.6
 packaging==24.2
