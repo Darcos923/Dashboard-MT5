@@ -13,7 +13,7 @@ Jinja2==3.1.6
 jsonschema==4.24.0
 jsonschema-specifications==2025.4.1
 MarkupSafe==3.0.2
-MetaTrader5==5.0.4993
+MetaTrader5==5.0.44
 narwhals==1.41.0
 numpy==2.2.6
 packaging==24.2
